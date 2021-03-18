@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">CIS3515_Assignment05</string>
+    <string name="animenames">anime Name</string>
+    <string-array name="AnimeNames">
+        <item>Attack On Titan</item>
+        <item>Bleach</item>
+        <item>Natuto</item>
+        <item>One Piece</item>
+        <item>One Punch Man</item>
+    </string-array>
 </resources>

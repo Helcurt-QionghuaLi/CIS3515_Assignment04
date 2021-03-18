@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CIS3515_Assignment05</string>
+    <string name="animenames">Nom de lanime</string>
+    <string-array name="AnimeNames">
+        <item>Lattaque des Titans</item>
+        <item>Eau de Javel</item>
+        <item>Natuto</item>
+        <item>Une pièce</item>
+        <item>Un coup de poing</item>
+    </string-array>
+</resources>

@@ -15,7 +15,9 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     GridView gridView;
+
     String[] AnimeNames = {"Attack On Titan", "Bleach", "Natuto", "One Piece", "One Punch Man"};
+
     int[] AnimeImages = {R.drawable.attackontitan, R.drawable.bleach, R.drawable.naruto,
     R.drawable.onepiece, R.drawable.onepunchman};
     @Override
